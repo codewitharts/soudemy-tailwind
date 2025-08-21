@@ -6,8 +6,10 @@ CSS, this site highlights product features, benefits, and calls to action for a
 finance-focused SaaS platform.
 
 🚀 Demo 👉 Live Demo:
+https://codewitharts.github.io/soudemy-tailwind/
 
 📸 Screenshots
+<img width="1901" height="970" alt="image" src="https://github.com/user-attachments/assets/c2dc4baa-f269-4ead-879e-856d60935bea" />
 
 🛠️ Tech Stack
 
